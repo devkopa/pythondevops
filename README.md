@@ -1,3 +1,4 @@
+
 # Whoknows Variations
 
 This is the Whoknows variations repository. It is not meant for production as it contains several security vulnerabilities and problematic parts on purpose. 
@@ -21,4 +22,3 @@ One way to follow along is by:
 ## Pull requests
 
 If you have any suggestions or improvements to the tutorials, feel free to open a pull request.
-
